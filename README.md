@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on design and development of UI for various products using React
+- 🔭 I’m currently working on full stack development for various products. I mostly
+like working on frontend, especially React
 - 📫 How to reach me: https://twitter.com/jayeshcp
