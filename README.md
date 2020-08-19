@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on full stack development for various products. I mostly
 like working on frontend, especially React
+- Also tinkering with my Raspberry Pi
 - 📫 How to reach me: https://twitter.com/jayeshcp
 
 #### My Digital Badges:
