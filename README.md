@@ -6,4 +6,4 @@ like working on frontend, especially React
 
 #### My Digital Badges:
 
-![Microservices Architecture and Design Patterns](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14618889) ![Advanced Microservices Architecture](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14637713) ![Machine & Deep Learning Algorithms: Introduction](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/19949633)
+![Microservices Architecture and Design Patterns](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14618889) ![Advanced Microservices Architecture](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14637713) ![Machine & Deep Learning Algorithms: Introduction](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/19949633) ![Getting Started with Python: Introduction](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21951095)
