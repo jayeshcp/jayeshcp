@@ -1,4 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![Image downloaded and used, from https://illlustrations.co/](https://user-images.githubusercontent.com/4054338/95509397-764ba700-0982-11eb-8073-703754b6be65.png)
 
 I am full-stack software engineer at [Skillsoft](https://www.skillsoft.com/)
 
