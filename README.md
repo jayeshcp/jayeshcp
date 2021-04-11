@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img width="253" alt="image" src="https://user-images.githubusercontent.com/4054338/114317639-0952ce80-9ad7-11eb-9cfd-ebaa57ad9455.png">
+<img width="553" alt="image" src="https://user-images.githubusercontent.com/4054338/114317748-972eb980-9ad7-11eb-8334-e0472de55a59.png">
 
 I am full-stack software engineer at [Skillsoft](https://www.skillsoft.com/)
 
