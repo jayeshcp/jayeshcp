@@ -9,23 +9,4 @@ like working on frontend, especially using React
 - ⚡ Fun fact: I ❤️ 🐶s
 - 📫 How to reach me: https://twitter.com/jayeshcp
 
-<details>
-  <summary>Some of my Digital Certificates</summary>
-  
-  ![Workplace Diversity, Equity, and Inclusion in Action](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/32406106)
-  ![Adopting an Inclusion Mindset at Work](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/32405798)
-  ![Agile Foundations: Scrum Methodology](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/32406407)
-  ![Building and Leading Successful Teams](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/30710666)
-  ![Sharing Space: Living, Learning, and Working at Home](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28840983)
-  ![Leadership Insights on Developing People](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24301544)
-  ![Leading by Developing People](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24298179)
-  ![Leadership Insights on Emotional Intelligence](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24191016)
-  ![Becoming an Emotionally Intelligent Leader](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24077897)
-  ![Microservices Architecture and Design Patterns](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14618889)
-  ![Advanced Microservices Architecture](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14637713)
-  ![Machine & Deep Learning Algorithms: Introduction](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/19949633)
-  ![Getting Started with Python: Introduction](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21951095)
-  ![Clean Coding Techniques: Introduction](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22208723)
-  ![Clean Coding Techniques: Defensive Programming, MVC, & DDD](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22209664)
-
-</details>
+[Some of my digital badges/certificates](https://skillsoft.digitalbadges.skillsoft.com/profile/jayeshchandrapal/wallet)
