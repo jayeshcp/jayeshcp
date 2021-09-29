@@ -9,4 +9,6 @@ like working on features requiring full stack development
 - ⚡ Fun fact: I ❤️ 🐶s
 - 📫 How to reach me: https://twitter.com/jayeshcp
 
+<a href="https://stackoverflow.com/users/1855188/jayesh-chandrapal"><img src="https://stackoverflow.com/users/flair/1855188.png" width="208" height="58" alt="profile for Jayesh Chandrapal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jayesh Chandrapal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 [Some of my digital badges/certificates](https://skillsoft.digitalbadges.skillsoft.com/profile/jayeshchandrapal/wallet)
