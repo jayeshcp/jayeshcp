@@ -3,9 +3,9 @@
 
 I am full-stack software engineer at [Skillsoft](https://www.skillsoft.com/)
 
-- 🔭 I’m currently working on design and development of few customer facing software products. I mostly
-like working on frontend, especially using React
-- Also tinkering with my Raspberry Pi
+- 🔭 I’m currently working on design and development of few customer facing software products. I
+like working on features requiring full stack development
+- Also preparing for AWS certification exams during some free time over weekends and holidays
 - ⚡ Fun fact: I ❤️ 🐶s
 - 📫 How to reach me: https://twitter.com/jayeshcp
 
