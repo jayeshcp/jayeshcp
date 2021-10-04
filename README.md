@@ -11,7 +11,8 @@ like working on features requiring full stack development
 
 <a href="https://stackoverflow.com/users/1855188/jayesh-chandrapal"><img src="https://stackoverflow.com/users/flair/1855188.png" width="208" height="58" alt="profile for Jayesh Chandrapal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jayesh Chandrapal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-Interesting tech talks bookmarks:
+Some of the interesting tech talks/articles I liked:
 - [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg • GOTO 2016](https://www.youtube.com/watch?v=57UK46qfBLY)
+- [Jez Humble - Building and Scaling High Performing Technology Organizations](https://www.youtube.com/watch?v=CN6uhzNM4eA)
 
 [Some of my digital badges/certificates](https://skillsoft.digitalbadges.skillsoft.com/profile/jayeshchandrapal/wallet)
