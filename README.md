@@ -5,7 +5,7 @@ I am full-stack software engineer
 
 - 🔭 I’m currently working on design and development of several customer facing software products and love full stack web development
 - ⚡ Fun fact: I ❤️ 🐶s
-- 📫 How to reach me: https://twitter.com/jayeshcp
+- 📫 How to reach me: [@jayeshcp](https://twitter.com/jayeshcp) or [Discord](https://discord.gg/VA4kWyWqVr)
 
 <a href="https://stackoverflow.com/users/1855188/jayesh-chandrapal"><img src="https://stackoverflow.com/users/flair/1855188.png" width="208" height="58" alt="profile for Jayesh Chandrapal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jayesh Chandrapal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
