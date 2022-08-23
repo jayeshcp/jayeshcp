@@ -18,6 +18,8 @@ I am full-stack software engineer
 - [Jez Humble - Building and Scaling High Performing Technology Organizations](https://www.youtube.com/watch?v=CN6uhzNM4eA)
 
 ### Few interesting books:
+- [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://read.amazon.com/kp/embed?asin=B08C9V1FC9&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_8DPYD3NCEQGM5B10GC0Q)
+- [Code That Fits in Your Head: Heuristics for Software Engineering](https://read.amazon.com/kp/embed?asin=B09D2X43VX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_WNFX2A2F1MB4WWPQ89R3)
 - [Web Scalability for Startup Engineers](https://read.amazon.com/kp/embed?asin=B00ZPS4KI0&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_D2KVC58WSXGRAJN0XNNZ)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems-dp-1491950358/dp/1491950358/ref=mt_other?_encoding=UTF8&me=&qid=)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://read.amazon.com/kp/embed?asin=B06XPJML5D&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_Q6AFZG8EBP1NN9JN2D9P)
