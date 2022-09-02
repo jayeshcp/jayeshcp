@@ -3,7 +3,7 @@
 
 I am full-stack software engineer
 
-- 🔭 I’m currently working on design and development of several customer facing software products and love full stack web development
+- 🔭 I’m currently working on design and development of few customer facing software products
 - ⚡ Fun fact: I ❤️ 🐶s
 - 📫 How to reach me: [@jayeshcp](https://twitter.com/jayeshcp) or [Discord](https://discord.gg/VA4kWyWqVr)
 
