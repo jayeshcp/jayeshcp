@@ -11,9 +11,6 @@ I am a software engineer
 
 <a href="https://stackoverflow.com/users/1855188/jayesh-chandrapal"><img src="https://stackoverflow.com/users/flair/1855188.png" width="208" height="58" alt="profile for Jayesh Chandrapal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jayesh Chandrapal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-## My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayeshcp)](https://git.io/streak-stats)
-
 ## Some of the interesting tech talks & articles I liked:
 - [Eventually Consistent - Revisited by Werner Vogels, CTO at Amazon](https://app.pluralsight.com/paths/certificate/aws-certified-cloud-practitioner-clf-c01)
 - [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg • GOTO 2016](https://www.youtube.com/watch?v=57UK46qfBLY)
