@@ -2,8 +2,9 @@
 
 ![Software Engineer](https://github.com/jayeshcp/jayeshcp/assets/4054338/ec69d835-521f-4ebc-aeaa-6d9cc63809bc)
 
-I am a software engineer
+I am:
 
+- a senior software engineer
 - currently leading a team and working on design and development of few customer facing software products
 - reach me at: [@jayeshcp](https://twitter.com/jayeshcp)
 
