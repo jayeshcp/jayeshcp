@@ -24,4 +24,5 @@ I am:
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://read.amazon.com/kp/embed?asin=B07XW76VHZ&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_KZYFN9J7T67J93C9KYKA)
 
 ## My Digital Badges
-[Some of my digital badges & certificates](https://skillsoft.digitalbadges.skillsoft.com/profile/jayeshchandrapal/wallet)
+- [Some of my digital badges & certificates](https://skillsoft.digitalbadges.skillsoft.com/profile/jayeshchandrapal/wallet)
+- [Some more digital badges & certificates](https://skillsoft.digitalbadges.skillsoft.com/profile/jayeshchandrapal204574/wallet)
