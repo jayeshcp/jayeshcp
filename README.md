@@ -1,6 +1,6 @@
 # Jayesh Chandrapal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hi. Welcome to my home page!">
 
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jayeshchandrapal/))
+[LinkedIn](https://www.linkedin.com/in/jayeshchandrapal/)
 
 ![Software Engineer](https://github.com/jayeshcp/jayeshcp/assets/4054338/ec69d835-521f-4ebc-aeaa-6d9cc63809bc)
 
