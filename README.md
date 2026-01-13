@@ -2,11 +2,10 @@
 
 [LinkedIn](https://www.linkedin.com/in/jayeshchandrapal/)
 
-I am:
-
-- a software engineer
+I am a software engineer
+- have worked as Senior/Principal/Staff/Lead Software (web frontend and full-stack) Engineer
 - mostly working on design and development of customer facing software products
-- exploring side projects or building something
+- love exploring side projects and building stuff
 - reach me at: [@jayeshcp](https://twitter.com/jayeshcp)
 
 ## My Digital Badges
