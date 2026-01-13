@@ -2,12 +2,11 @@
 
 [LinkedIn](https://www.linkedin.com/in/jayeshchandrapal/)
 
-![Software Engineer](https://github.com/jayeshcp/jayeshcp/assets/4054338/ec69d835-521f-4ebc-aeaa-6d9cc63809bc)
-
 I am:
 
-- a senior software engineer
-- currently leading a team and working on design and development of few customer facing software products
+- a software engineer
+- mostly working on design and development of customer facing software products
+- exploring side projects or building something
 - reach me at: [@jayeshcp](https://twitter.com/jayeshcp)
 
 ## My Digital Badges
