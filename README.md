@@ -1,6 +1,10 @@
 # Jayesh Chandrapal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hi. Welcome to my home page!">
 
-[LinkedIn](https://www.linkedin.com/in/jayeshchandrapal/)
+LinkedIn: https://www.linkedin.com/in/jayeshchandrapal/
+
+Personal site: https://jayeshcp.github.io/
+
+---
 
 I am a software engineer
 - have worked as Senior/Principal/Staff/Lead Software (web frontend and full-stack) Engineer
